@@ -1,8 +1,6 @@
 #Resources
 Useful resources for development, design, trading, and so on.
 
----
-
 ###iOS Development
 * [8ve - free library of UI Sounds](http://raisedbeaches.com/octave/)
 * [Canvas - Animate in Xcode without code](http://canvaspod.io)
